@@ -29,7 +29,7 @@ export default {
     ],
     "quotes": [
       "error",
-      // "single"
+      "single"
     ],
     "semi": [
       "error",
